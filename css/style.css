@@ -64,11 +64,11 @@ footer{
     font-size: 1rem;
 }
 .footer__socials{
-    margin-left: auto;
+    margin-left: auto; /*hola hola */
     margin-right: 5%;
 }
 .footer__social {
-    font-size: 1.5rem;
+    font-size: 1.8rem; /* Antes estaba a 1.5rem */
     margin-right: 1.5rem;
     text-decoration: none;
 }
